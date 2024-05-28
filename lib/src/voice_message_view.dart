@@ -162,7 +162,7 @@ class VoiceMessageView extends StatelessWidget {
               const SizedBox(width: 12),
 
               /// speed button
-              _changeSpeedButton(color),
+           //   _changeSpeedButton(color),
 
               ///
               const SizedBox(width: 10),
